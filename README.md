@@ -12,8 +12,11 @@
 I'm Max Qian. I have a passion for astronomy and programming, and am committed to developing open-source astronomical software.
 
 🤔   Exploring new technologies and developing software solutions and quick hacks.
+
 🌱   Learning about Systems Design and Advanced Algorithms.
+
 ✍️   Pursuing C++ Development and Competitive Programming as hobbies/side projects.
+
 :star: Mainly researching software in the field of astronomy
 
 ## - 🛠 Tech Stack
