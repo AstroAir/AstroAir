@@ -23,7 +23,7 @@ I'm Max Qian. I have a passion for astronomy and programming, and am committed t
 
 ### Programming Languages
 
-<img src="https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=c%2B%2B&logoColor=blue" style="margin:5px" /><img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python" style="margin:5px" /><img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript" style="margin:5px" />
+<img src="https://img.shields.io/badge/-C++-black?style=for-the-badge&logo=c%2B%2B&logoColor=blue" style="margin:5px" /><img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python" style="margin:5px" /><img src="https://img.shields.io/badge/-C-black?style=for-the-badge&logo=c&logoColor=blue" style="margin:5px" /><img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript" style="margin:5px" /><img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=typescript" style="margin:5px" />
 
 ### APIs
 
